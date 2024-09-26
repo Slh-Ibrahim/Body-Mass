@@ -1,12 +1,2 @@
-## Body Mass Index (BMI)
-
-**BMI** (Body Mass Index) is a measurement used to assess a person's body composition based on their height and weight. It helps quantify tissue mass and is commonly used as a general indicator of whether an individual has a healthy body weight for their height.
-
-### How BMI Works:
-The value obtained from the BMI calculation is used to classify individuals into categories:
-- **Underweight**
-- **Normal weight**
-- **Overweight**
-- **Obese**
-
-These categories are determined by the range the BMI value falls within, helping to provide an overall picture of a person's health in relation to their weight.
+# Body-mass-index-
+BMI is a measurement of a person's leanness or corpulence based on their height and weight, and is intended to quantify tissue mass. It is widely used as a general indicator of whether a person has a healthy body weight for their height. Specifically, the value obtained from the calculation of BMI is used to categorize whether a person is underweight, normal weight, overweight, or obese depending on what range the value falls between
